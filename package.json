@@ -1,5 +1,5 @@
 {
-  "name": "ci-demo-app",
+  "name": "@msania3009/gpr-demo-package",
   "version": "1.0.0",
   "description": "A demo for GitHub Actions CI",
   "scripts": {
